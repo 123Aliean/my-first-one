@@ -1,5 +1,4 @@
-# my-first-one
- yay its HTML
- html elements
- html tags
- html lists
+# my second one
+CSS
+Need to know more about this
+not yet started will start tommarrow
